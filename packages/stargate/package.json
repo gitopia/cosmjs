@@ -1,5 +1,5 @@
 {
-  "name": "@cosmjs/stargate",
+  "name": "@gitopia/stargate",
   "version": "0.27.1",
   "description": "Utilities for Cosmos SDK 0.40",
   "contributors": [
